@@ -1,6 +1,6 @@
 # E-commerce
 
-###### Link to the Final App on Heroku -
+#### Link to the Final App on Heroku -
 
 [Amzona E-commerce](https://catalyst-ecommerce.herokuapp.com/)
 
